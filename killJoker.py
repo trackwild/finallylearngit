@@ -1,2 +1,2 @@
 print('We have got you')
-print('Robin go left, Ill go right')
+print('Something Batman said... blah blah")
